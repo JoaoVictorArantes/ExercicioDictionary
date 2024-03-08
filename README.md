@@ -1,6 +1,6 @@
 # ExercicioDictionary
 
-== antes de rodar o programa, crie um arquivo com os dados a seguir ==
+Antes de rodar o programa, crie um arquivo com os dados a seguir
 
 ![image](https://github.com/JoaoVictorArantes/ExercicioDictionary/assets/80133673/f2d7e31f-7c1b-4b78-846c-007980fadbc9)
 
